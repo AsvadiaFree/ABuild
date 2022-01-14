@@ -1,0 +1,6 @@
+name: ABuild
+main: fr.asvadia.abuild.Main
+version: 1.0
+author: SkyfightTV
+commands:
+  abuild:
